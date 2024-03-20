@@ -1,0 +1,4 @@
+This is a sample text file .
+It contains multiple words and sentences .
+The word count of this file will be calculated using the Lex program .
+
