@@ -1,6 +1,6 @@
 # JAVA PROGRAMMING
 
-<b>Date - 26/03/2024 
+<b>Date - 26/03/2024 \n
 Submitted to - Aditya Partap</b>
 1. Write a program to calculate the area of rectangle given it's length and width as input from the user.
 2. Write a Java program to find the factorial of a number entered by the user.
